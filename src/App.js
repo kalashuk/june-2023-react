@@ -1,11 +1,11 @@
-import React from 'react';
-
+import {Users} from "./components/Users";
 const App = () => {
+
     return (
         <div>
-          App
+            <Users/>
         </div>
     );
 };
 
-export {App}; 
+export {App};
